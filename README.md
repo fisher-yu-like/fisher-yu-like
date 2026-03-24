@@ -4,11 +4,13 @@
 
 - 🔭 I'm currently working on **Courses** **exercise**
 
-- 🌱 I'm currently learning **STM32\DeepLearning\AI**
+- 🌱 I'm currently learning **STM32\DeepLearning\AI\English**
 
-- 📫 How to reach me Private:**2055798256@qq.com**
-                      School:**sy_0303@mail.ustc.edu.cn**
-- ⚡ Fun fact **strong man**
+- 📫 How to reach me Private: **2055798256@qq.com**
+                      School: **sy_0303@mail.ustc.edu.cn**
+- ⚡ Fun fact **to be a strong man**
+  
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
