@@ -11,12 +11,12 @@
 - ⚡ Fun fact **to be a strong man**
   
 -Projects:
-[豆瓣250top电影爬取](python/爬虫/douban.py)
-[表格可视化](python/数据可视化与建模/data%20analysis.py)
-[GCN论文复现](python/深度学习/GCN复现.py)
-[GCN应用](python/深度学习/GCN应用.py)
-[ResNet论文复现](python/深度学习/ResNet复现.py)
-[ResNet应用](python/深度学习/ResNet应用.py)
+[豆瓣250top电影爬取](../python/爬虫/douban.py)
+[表格可视化](../python/数据可视化与建模/data%20analysis.py)
+[GCN论文复现](../python/深度学习/GCN复现.py)
+[GCN应用](../python/深度学习/GCN应用.py)
+[ResNet论文复现](../python/深度学习/ResNet复现.py)
+[ResNet应用](../python/深度学习/ResNet应用.py)
 
 ---
 [学习记录](python/深度学习/Continue.md)
