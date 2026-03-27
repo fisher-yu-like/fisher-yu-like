@@ -11,7 +11,7 @@
 - ⚡ Fun fact **to be a strong man**
   
 -Projects:
-[豆瓣250top电影爬取](https://github.com/fisher-yu-like/python/blob/main/爬虫/douban.py))
+[豆瓣250top电影爬取](../../python/blob/main/爬虫/douban.py))
 [表格可视化](../python/数据可视化与建模/data%20analysis.py)
 [GCN论文复现](../python/深度学习/GCN复现.py)
 [GCN应用](../python/深度学习/GCN应用.py)
