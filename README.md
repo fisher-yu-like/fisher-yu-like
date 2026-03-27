@@ -12,14 +12,14 @@
   
 -Projects:
 [豆瓣250top电影爬取](https://github.com/fisher-yu-like/python/blob/main/%E7%88%AC%E8%99%AB/douban.py)
-[表格可视化](../python/数据可视化与建模/data%20analysis.py)
-[GCN论文复现](../python/深度学习/GCN复现.py)
-[GCN应用](../python/深度学习/GCN应用.py)
-[ResNet论文复现](../python/深度学习/ResNet复现.py)
-[ResNet应用](../python/深度学习/ResNet应用.py)
+[表格可视化](https://github.com/fisher-yu-like/python/blob/main/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B8%8E%E5%BB%BA%E6%A8%A1/data%20analysis.py)
+[GCN论文复现](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/GCN%E5%A4%8D%E7%8E%B0.py)
+[GCN应用](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/GCN%E5%BA%94%E7%94%A8.py)
+[ResNet论文复现](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ResNet%E5%A4%8D%E7%8E%B0.py)
+[ResNet应用](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ResNet%E5%BA%94%E7%94%A8.py)
 
 ---
-[学习记录](python/深度学习/Continue.md)
+[学习记录](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Continue.md)
 
 
 <h3 align="left">Connect with me:</h3>
