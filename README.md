@@ -11,7 +11,7 @@
 - ⚡ Fun fact **to be a strong man**
 
 - Favorite singer:[Justin Bieber  ](https://github.com/fisher-yu-like/justin-bieber-skill)
-- Favorite up:[Chen Ze ](https://github.com/fisher-yu-like/chenze-skill）
+- Favorite up: [Chen Ze](https://github.com/fisher-yu-like/chenze-skill)
 -Projects:
 [Scientific Research Assistant Agent](https://github.com/fisher-yu-like/ScientificPaperAgent/blob/master/README.md)
 [天气agent](https://github.com/fisher-yu-like/Agent/blob/master/main.py)
