@@ -10,9 +10,10 @@
                       School: **sy_0303@mail.ustc.edu.cn**
 - ⚡ Fun fact **to be a strong man**
 
-- Favorite singer:[Justin Bieber  ](https://github.com/fisher-yu-like/justin-bieber-skill)
-- Favorite up: [Chen Ze](https://github.com/fisher-yu-like/chenze-skill)
--Projects:
+- Favorite singer:[JustinBieber-skill  ](https://github.com/fisher-yu-like/justin-bieber-skill)
+- Favorite up: [ChenZe-skill](https://github.com/fisher-yu-like/chenze-skill)
+
+- Projects:
 [Scientific Research Assistant Agent](https://github.com/fisher-yu-like/ScientificPaperAgent/blob/master/README.md)
 [天气agent](https://github.com/fisher-yu-like/Agent/blob/master/main.py)
 [GCN论文复现](https://github.com/fisher-yu-like/python/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/GCN%E5%A4%8D%E7%8E%B0.py)
